@@ -85,6 +85,12 @@ h2 {
     font-weight: bold;
 }
 
+.map-container {
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
 footer {
     text-align: center;
     padding: 10px;
@@ -101,6 +107,8 @@ footer {
     color: #90e0ef;
 }
 
-.dark-theme .edu-card, .dark-theme .skills-grid div, .dark-theme .goals-grid div {
+.dark-theme .edu-card, 
+.dark-theme .skills-grid div, 
+.dark-theme .goals-grid div {
     background: #1e293b;
 }
